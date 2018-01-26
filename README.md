@@ -5,6 +5,7 @@ This App isolates a bug in WatchConnectivity where an installed WatchOS App is n
 
 If you run this App in the simulator, you will see the following screen:
 
+![Simulator Preview](Simulator.png)
 
 
 However, if you run it on a real device, the App never becomes "Reachable".
