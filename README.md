@@ -17,3 +17,10 @@ This bug showed up in iOS 11.0 and watchOS 4.0.
 It was fixed in iOS 11.1 and watchOS 4.1.
 
 It is broken again in iOS 11.2 and watchOS 4.2.
+
+
+Possible references in Apple's forums:
+
+https://forums.developer.apple.com/thread/93932
+
+https://forums.developer.apple.com/message/248614#248614
